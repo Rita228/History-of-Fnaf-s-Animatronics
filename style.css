@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+   
+}
+body{
+background:  black;
+
+}
+header{
+    background: white;
+    display: flex;
+    justify-content: center;
+}
+h3{
+   background-color: red; 
+   width: 150px;
+   padding-left: 10px;
+   
+}
+footer{
+    background: rgb(223, 223, 223);
+    height: 100px;
+
+}
